@@ -1,0 +1,43 @@
+BODY{
+  background-color: green;
+  font-family: calibri;
+}
+
+INPUT{
+  width: 50px;
+  font-family: calibri;
+  color: green;
+}
+
+
+LI{
+  padding: 2%;
+  font-family: calibri;
+  font-weight: 14px;
+  font-style: italic;
+}
+footer{
+  text-align: center;
+  -webkit-transition: all .5s ease-in-out;
+}
+footer:hover{
+  margin-left: 180%;
+  -webkit-transition: all .5s ease-in-out;
+
+}
+footer:hover:hover{
+  margin-right: 320%;
+}
+#nombres{margin-left: 90px;}
+#preguntas li{
+display:inline-block;
+margin-top:5px;
+margin-left:10%;
+border-radius:35px;
+width:30%;
+background-image:-moz-radial-gradient(lightgreen, white);
+}
+IMG{
+  border: 2px solid black;
+}
+
